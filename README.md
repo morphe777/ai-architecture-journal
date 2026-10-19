@@ -1,4 +1,4 @@
-# ai-architecture-journal
+# AI Architecture Journal
 An architect’s decision log: AI agents, knowledge bases, and the trade-offs
 
 ## About
