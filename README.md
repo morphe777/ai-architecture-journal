@@ -20,7 +20,7 @@ When a decision changes, the old ADR is not rewritten. It is marked "superseded 
 
 | # | Decision | Project | Status |
 |---|---|---|---|
-| [0001](adr/0001-orchestrator.md) | <title> | shared | proposed |
+| [0001](ADR/0001-openrouter/0001-openrouter.md) | OpenRouter as the gateway to third-party LLMs | shared | proposed |
 
 ## Projects
 
